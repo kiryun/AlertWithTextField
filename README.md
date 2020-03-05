@@ -7,7 +7,7 @@
 
 <img width="1036" alt="image" src="https://user-images.githubusercontent.com/40315820/72709159-aa3e2c80-3ba7-11ea-8d22-a4e25fe5aaba.png">
 
-##Usage
+## Usage
 ```swift
 @State var shown = false
     @State var text = ""
